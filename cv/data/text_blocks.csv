@@ -1,0 +1,5 @@
+Id used for finding text block,Contents of text block. Supports markdown formatting.
+loc,text
+intro,"I am a microbiologist specialising in metagenomics and bioinformatics. I have worked in a wide range of research environments, from the biochemistry focussed diabetes laboratory at the Queensland Alliance for Agriculture and Food Innovation, University of Queensland, through the plant and bacteria investigations at the Department of Plant Sciences, Oxford University, and most recently to bioinformatics and metagenomic analyses at the Centre for Microbiome Research, Queensland University of Technology, where I am a Lecturer (Level B) and maintain several widely used metagenomics tools (Bin Chicken, CoverM, Galah, Aviary)."
+public_engagement_aside,"I enjoy engaging with the public and helping them to understand science. This is not only personally rewarding, but also important for improving public perceptions of science."
+teaching_experience_aside,I enjoy helping students on their journey from their current state of knowledge to new and deeper understanding about a topic.

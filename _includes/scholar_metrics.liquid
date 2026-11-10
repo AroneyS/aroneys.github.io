@@ -1,0 +1,8 @@
+{% assign m = site.data.scholar_metrics %}
+{% if m %}
+<p class="text-sm text-gray-500">
+  <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}" target="_blank" rel="noopener">Google Scholar</a>:
+  {{ m.citations_all }} citations · h-index {{ m.hindex_all }} · i10-index {{ m.i10index_all }}
+  <em>(as of {{ m.retrieved }}; includes merged records)</em>
+</p>
+{% endif %}
