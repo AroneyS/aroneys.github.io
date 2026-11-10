@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Postdoctoral Researcher (Lecturer, Level B) · <a href="https://microbiome.qut.edu.au/" target="_blank">Centre for Microbiome Research</a>, Queensland University of Technology
+subtitle: Senior Postdoctoral Researcher (Lecturer, Level B) · <a href="https://research.qut.edu.au/cmr/" target="_blank">Centre for Microbiome Research</a>, Queensland University of Technology
 
 profile:
   align: right
@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a bioinformatician and metagenomics microbiologist at the [Centre for Microbiome Research](https://microbiome.qut.edu.au/) (QUT), working in the Woodcroft group. I build and apply tools for genome-resolved metagenomics: [Bin Chicken](https://github.com/AroneyS/binchicken) (targeted co-assembly), [CoverM](https://github.com/wwood/CoverM) (read-mapping statistics), [Aviary](https://github.com/rhysnewell/aviary) (assembly and recovery) and [Galah](https://github.com/wwood/galah) (genome dereplication), and I contribute to [SingleM](https://github.com/wwood/singlem) and its [Sandpiper](https://sandpiper.qut.edu.au/) community-profile resource.
+I am a bioinformatician and metagenomics microbiologist at the [Centre for Microbiome Research](https://research.qut.edu.au/cmr/) (QUT), working in the [Woodcroft group](https://research.qut.edu.au/cmr/team/ben-woodcroft/). I build and apply tools for genome-resolved metagenomics: [Bin Chicken](https://github.com/AroneyS/binchicken) (targeted co-assembly), [CoverM](https://github.com/wwood/CoverM) (read-mapping statistics), [Aviary](https://github.com/rhysnewell/aviary) (assembly and recovery) and [Galah](https://github.com/wwood/galah) (genome dereplication), and I contribute to [SingleM](https://github.com/wwood/singlem) and its [Sandpiper](https://sandpiper.qut.edu.au/) community-profile resource.
 
 Applied to global and climate-focused datasets, this work has:
 
