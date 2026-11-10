@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Peer-reviewed articles, preprints and software, in reverse chronological order. * denotes equal contribution. Also on <a href="https://scholar.google.com/citations?user=qBVdjY8AAAAJ">Google Scholar</a>.
+description: Peer-reviewed articles, preprints and software, in reverse chronological order. * denotes equal contribution. Also listed on Google Scholar.
 nav: true
 nav_order: 2
 ---

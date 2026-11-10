@@ -85,8 +85,6 @@ CV %>% print_skill_bars()
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-The source code is available at [github.com/AroneyS/aroneys.github.io](https://github.com/AroneyS/aroneys.github.io) (`cv/`).
-
 Last updated on `r Sys.Date()`.
 
 

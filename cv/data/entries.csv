@@ -42,17 +42,19 @@ awards,Vice-Chancellor's Education Award,University of Oxford,,,2020,Award recei
 referees,Prof Gene Tyson,Centre for Microbiome Research,Queensland University of Technology,,,,,,TRUE
 referees,Assoc Prof Ben Woodcroft,Centre for Microbiome Research,Queensland University of Technology,,,,,,TRUE
 referees,Prof Philip Poole,Department of Plant Sciences,University of Oxford,,,,,,TRUE
-other_activities,"Chair, School of Biomedical Sciences HDR Symposium",School of Biomedical Sciences,Queensland University of Technology,,2024,"Oversaw scheduling, keynotes, registration, abstract scoring and presentation selection for 67 HDR students (53 talks, 37 posters).","Raised $20,000 in industry sponsorship and organised two keynote speakers.",,TRUE
+other_activities,"Chair, School of Biomedical Sciences HDR Symposium (2024)",School of Biomedical Sciences,Queensland University of Technology,,2024,"Oversaw scheduling, keynotes, registration, abstract scoring and presentation selection for 67 HDR students (53 talks, 37 posters).","Raised $20,000 in industry sponsorship and organised two keynote speakers.",,TRUE
+other_activities,"Chair, School of Biomedical Sciences HDR Symposium (2026)",School of Biomedical Sciences,Queensland University of Technology,,2026,"Chaired the symposium again: 56 HDR students (23 talks), with $5,000 in sponsorship raised.",,,TRUE
 other_activities,HPC Administration Team,Centre for Microbiome Research,Queensland University of Technology,,current,Maintain infrastructure code and contribute to workshops and planning for the Centre's HPC.,Led an optimisation of storage usage and file counts that improved filesystem performance.,,TRUE
 other_activities,MVIF Pacific Organising Committee,Microbiome Virtual International Forum,,2025,current,"Assign applicants to presentation types, plan keynotes and run the webinar backend for four events in 2025 (2,500 unique attendees).",,,TRUE
 teaching_positions,Environmental Metagenomics (week-long online course),Centre for Microbiome Research,Queensland University of Technology,,,"Developed and delivered a course covering read processing, assembly and binning, and functional characterisation.",,,TRUE
-presentations,Poster presentation,Australian Microbial Ecology Conference (AusME),"Melbourne, Australia",,2022,,,,TRUE
-presentations,Poster presentation,19th International Symposium on Microbial Ecology (ISME19),"Cape Town, South Africa",,2024,,,,TRUE
-presentations,Poster presentation,ISME 2026,,,2026,,,,TRUE
-presentations,Presentation,JAMS symposium,,,2026,,,,FALSE
-presentations,Presentation,QUT School of Biomedical Sciences,Queensland University of Technology,,2026,,,,FALSE
-presentations,Poster presentation,QUT ECR symposium,Queensland University of Technology,,2026,,,,FALSE
 awards,ECR Paper of the Year,School of Biomedical Sciences,Queensland University of Technology,,2026,,,,TRUE
 awards,First place poster,QUT ECR symposium,Queensland University of Technology,,2026,,,,TRUE
 awards,NCMAS computational allocation (NCI and Pawsey),National Computational Merit Allocation Scheme,,2025,2025,Awarded for large-scale Bin Chicken genome recovery.,,,TRUE
 awards,NCMAS computational allocation,National Computational Merit Allocation Scheme,,2026,2026,,,,TRUE
+presentations,A fork in the metabolic road: microbial communities impacting emission dynamics of thawing permafrost,Australian Microbial Ecology Conference (AusME),"Melbourne, Australia",,2022,Poster.,,,TRUE
+presentations,Directed coassembly recovers many novel microbial genomes,19th International Symposium on Microbial Ecology (ISME19),"Cape Town, South Africa",,2024,Poster.,,,TRUE
+presentations,"Targeted coassembly recovers 24,000 novel species",Australian Microbial Ecology Conference (AusME),"Sydney, Australia",,2024,,,,TRUE
+presentations,"130,000 new species from across the globe enrich the tree of life",ISME20,"Auckland, New Zealand",,2026,Poster.,,,TRUE
+presentations,"130,000 new species from across the globe enrich the tree of life",JAMS Symposium,"Brisbane, Australia",,2026,,,,FALSE
+presentations,"130,000 new microbial species hidden in public DNA data",QUT ECR symposium,Queensland University of Technology,,2026,Poster; awarded first place.,,,FALSE
+presentations,"Discovering 24,000 new microbial species with Bin Chicken",School of Biomedical Sciences,Queensland University of Technology,,2026,,,,FALSE

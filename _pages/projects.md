@@ -5,7 +5,6 @@ permalink: /software/
 description: Open-source tools for genome-resolved metagenomics that I develop or maintain.
 nav: true
 nav_order: 3
-display_categories: []
 horizontal: false
 ---
 
