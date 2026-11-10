@@ -1,0 +1,53 @@
+[workspace]
+channels = ["conda-forge"]
+name = "aroneys-github-io"
+platforms = ["linux-64"]
+
+[environments]
+default = ["main"]
+site = ["main", "site"]
+cv = ["main", "cv"]
+
+# Helper scripts (bib -> CV, DOI import, Scholar metrics) and their tests
+[feature.main.dependencies]
+python = ">=3.11"
+polars = "*"
+
+[feature.main.tasks]
+test = { cmd = "python -m unittest", cwd = "scripts" }
+
+# Jekyll build (used in CI and for local checks)
+[feature.site.dependencies]
+ruby = "3.3.*"
+nodejs = ">=20"
+imagemagick = "*"
+compilers = "*"
+make = "*"
+pkg-config = "*"
+yaml = "*"
+
+[feature.site.tasks]
+gems = "bundle config set --local path vendor/bundle && bundle install"
+build = "JEKYLL_ENV=production bundle exec jekyll build"
+serve = "bundle exec jekyll serve --livereload"
+
+# CV rendering (HTML + PDF via pagedown; chrome_print needs Chrome/Chromium on PATH or CHROMOTE_CHROME)
+[feature.cv.dependencies]
+r-base = ">=4.3"
+r-rmarkdown = "*"
+r-pagedown = "*"
+r-knitr = "*"
+r-magrittr = "*"
+r-dplyr = "*"
+r-tidyr = "*"
+r-readr = "*"
+r-stringr = "*"
+r-glue = "*"
+r-purrr = "*"
+r-lubridate = "*"
+r-fs = "*"
+r-jsonlite = "*"
+pandoc = "*"
+
+[feature.cv.tasks]
+cv = { cmd = "Rscript render_cv.r", cwd = "cv" }
